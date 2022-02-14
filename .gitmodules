@@ -1,0 +1,12 @@
+[submodule "l10n_gt_extra"]
+	path = l10n_gt_extra
+	url = https://github.com/rocketgithub/l10n_gt_extra.git
+	branch = 13.0
+[submodule "fel_gt"]
+	path = fel_gt
+	url = https://github.com/rocketgithub/fel_gt.git
+	branch = 13.0
+[submodule "fel_infile"]
+	path = fel_infile
+	url = https://github.com/rocketgithub/fel_infile.git
+	branch = 13.0
